@@ -16,8 +16,13 @@
 
 
 ## Projects
+### FinCare: (https://github.com/a-agashe/FinCare)
+FinCare is a Credit Card Management System designed to help the customers to purchase various products with No-Cost-Emi options based on the card that the user selected during registration.
+Database: Oracle SQL Developer
+Backend: Spring Boot, Hibernate/JPA, J2EE, Maven, Jenkins, RESTful Web Services
+Frontend: Angular 8, HTML, CSS, JavaScript, JQuery
 
 
 ## Publications
-1. [Atharva Agashe, Shivani Pande and Dr. Rupesh C. Jaiswal A Survey Paper on Cloud Computing and Migration to the Cloud.] (https://www.jetir.org/papers/JETIR2210035.pdf)
-2. [Shivani Pande, Atharva Agashe, Dr. Rupesh C. Jaiswal and Dr. G.P. Potdar Microservices in Cloud Native Development of Applicaiton (2022).] (https://ijcrt.org/papers/IJCRT2210367.pdf)
+1. Atharva Agashe, Shivani Pande and Dr. Rupesh C. Jaiswal A Survey Paper on Cloud Computing and Migration to the Cloud. (https://www.jetir.org/papers/JETIR2210035.pdf)
+2. Shivani Pande, Atharva Agashe, Dr. Rupesh C. Jaiswal and Dr. G.P. Potdar Microservices in Cloud Native Development of Applicaiton (2022).(https://ijcrt.org/papers/IJCRT2210367.pdf)
