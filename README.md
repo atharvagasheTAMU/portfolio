@@ -4,8 +4,8 @@
 #### Technical Interests: Cloud Computing, Machine Learning, Deep Learning
 
 ## Education
-- M.S., Computer Engineering	Texas A&M University 	(_Aug 2023 to Present_)		        		
-- B.E., Electronics & Telecommunications  Pune Institute ofComputer Technology (_Aug 2016 to May 2020_)
+- M.S., Computer Engineering, Texas A&M University 	(_Aug 2023 to Present_)		        		
+- B.E., Electronics & Telecommunications, Pune Institute ofComputer Technology (_Aug 2016 to May 2020_)
 
 ## Work Experience
 **Software Engineer @ ACI Worldwide/ Dragonfly Financial Technologies (_June 2022 - July 2023_)**
